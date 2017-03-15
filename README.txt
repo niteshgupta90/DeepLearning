@@ -1,4 +1,4 @@
-Lab2
+
 
 - Script has the name MachineLearning.R. 
 
